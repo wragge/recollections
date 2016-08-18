@@ -21,3 +21,14 @@ p.centered {
     margin-left: auto;
     margin-right: auto;
 }
+
+.rotate-right {
+    -ms-transform: rotate(4deg); /* IE 9 */
+    -webkit-transform: rotate(4deg); /* Chrome, Safari, Opera */
+    transform: rotate(4deg);
+}
+.rotate-left {
+    -ms-transform: rotate(-4deg); /* IE 9 */
+    -webkit-transform: rotate(-4deg); /* Chrome, Safari, Opera */
+    transform: rotate(-4deg);
+}

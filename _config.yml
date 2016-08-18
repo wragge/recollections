@@ -5,16 +5,16 @@ highlighter: rouge
 markdown:    kramdown
 lsi:         false
 permalink:   "/:title"
-baseurl: "/digitalglam-2016"
+baseurl: "/whpha2016"
 kramdown:
 
 
 #gems:
 #  - jemoji
 
-title:       Hacking heritage
+title:       Telling stories with data
 author:      Tim Sherratt
-description: Presentation for DigitalGLAM 2016
+description: Presentation for Working History, the annual conference of the Professional Historians Association.
 
 sass:
   style:     :compressed
@@ -38,7 +38,7 @@ reveal:
   ## Display controls in the bottom right corner
   controls: false
   ## Display a presentation progress bar
-  progress: true
+  progress: false
   ## Display the page number of the current slide
   #slideNumber: false
   ## Push each slide change to the browser history
@@ -71,7 +71,7 @@ reveal:
   ## Hides the address bar on mobile devices
   #hideAddressBar: true
   ## Opens links in an iframe preview overlay
-  previewLinks: true
+  previewLinks: false
   ## Transition style (default/cube/page/concave/zoom/linear/fade/none)
   transition: fade
   ## Transition speed (default/fast/slow)
