@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Telling stories with data"
+title: "A life reduced to data"
 ---
 
 
