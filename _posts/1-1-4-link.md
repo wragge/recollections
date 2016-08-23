@@ -4,8 +4,7 @@ title: ""
 ---
 
 <section>
-<iframe class="stretch" frameborder="0" scrolling="yes" data-src="http://discontents.com.au/i-link-therefore-i-am/"></iframe>
-
-<h6><a class="external" href="http://discontents.com.au/i-link-therefore-i-am/">http://discontents.com.au/i-link-therefore-i-am/</a></h6>
+<a class="stretch" href="http://discontents.com.au/i-link-therefore-i-am/"><img class="rotate-left" src="{{ site.baseurl }}/assets/images/ilink.png"></a>
+<h6 class="rotate-left"><a class="external" href="http://discontents.com.au/i-link-therefore-i-am/">http://discontents.com.au/i-link-therefore-i-am/</a></h6>
 </section>
 
